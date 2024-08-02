@@ -1,0 +1,5 @@
+../Src/usart.c:12:6:displayoption	8	static
+../Src/usart.c:25:6:UART2_SendChar	16	static
+../Src/usart.c:32:6:UART2_SendString	16	static
+../Src/usart.c:42:6:Usart2_config	4	static
+../Src/usart.c:71:9:receiverdata	16	static

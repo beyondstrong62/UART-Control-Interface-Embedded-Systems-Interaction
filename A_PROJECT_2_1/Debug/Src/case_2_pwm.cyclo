@@ -1,0 +1,3 @@
+../Src/case_2_pwm.c:14:6:PWM_Intensity_init	1
+../Src/case_2_pwm.c:44:6:PWM_Intensity_start	5
+../Src/case_2_pwm.c:76:6:PWM_Intensity_close	1
